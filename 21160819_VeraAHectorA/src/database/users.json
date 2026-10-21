@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Hector Aramis",
+    "lastname": "Vera Acevedo",
+    "email": "HectorHava@example.com",
+    "password": "prueba123"
+  },
+  {
+    "id": 2,
+    "name": "Sarai",
+    "lastname": "Actualizable",
+    "email": "Sara@gmail.com",
+    "password": "holahola"
+  }
+]
